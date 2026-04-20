@@ -1,10 +1,9 @@
 # Matthew DeRoxtro
 ---
-- **Owner** of [3DeRox LLC] (https://3derox.com)
 - **Full Stack Developer** for [Internet Marketing Expert Group] (https://imegonline.com/)
-- **Coding Experience** with NodeJS, VueJS, MongoDB, JS, Java, C#, C++, Python
+- **Experience** with Node.js, Vue, MongoDB, JS, Java, C#, C++, Python, GO, AWS, SQLite, Redis
 - **Hobbies** American Football, Cars, Simulations
-- **Reach Me** [admin@3derox.com] or [mderoxtro@gmail.com] or [3derox@gmail.com]
+- **Reach Me** [mderoxtro@gmail.com] or [3derox@gmail.com]
 
 <!---
 mderoxtro/mderoxtro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
